@@ -2,7 +2,6 @@
 ###Lock, E. F., & Dunson, D. B. (2013). Bayesian consensus clustering. Bioinformatics (Oxford, England), 29(20), 2610–2616. http://doi.org/10.1093/bioinformatics/btt425
 
 
-setwd("~/Dropbox/GwenDataIntegration/BCC")
 source("https://bioconductor.org/biocLite.R")
 biocLite("impute")
 library(impute)
