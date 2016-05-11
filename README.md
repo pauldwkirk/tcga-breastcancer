@@ -4,8 +4,11 @@ Datasets from TCGA (see: https://tcga-data.nci.nih.gov/docs/publications/brca_20
 Raw datasets:
 =============
 BRCA.348.precursor.txt               -- miRNA dataset
+
 BRCA.exp.348.med.csv                 -- gene expression dataset
+
 BRCA.Methylation.574probes.802.txt   -- methylation dataset
+
 rppaData-403Samp-171Ab-Trimmed.txt   -- protein dataset 
 
 Processing script:
